@@ -43,15 +43,6 @@ pdb2lmp/
 
 ---
 
-## ⚡ Skills and Tools Demonstrated
-
-- Python scripting for biomolecular data parsing and reformatting
-- Coarse-graining of protein structures
-- Preparing simplified input files for molecular dynamics simulations
-- File I/O operations for scientific data generation
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
